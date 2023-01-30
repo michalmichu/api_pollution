@@ -15,10 +15,18 @@ $url = "https://api.gios.gov.pl/pjp-api/rest/aqindex/getIndex/266";
 <br>
 
 You may use POSTMAN Desktop Application and find out different Cities using this GET type queries:
+<br>
+<pre>
 https://api.gios.gov.pl/pjp-api/rest/station/findAll
-this way you get list of Index which You can use in:
+</pre>
+<br>
+This way you will get list of Index which You can use in url below:
+<br>
+<pre>
 https://api.gios.gov.pl/pjp-api/rest/aqindex/getIndex/114
-examples data in JSON format:
+</pre>
+<br>
+Examples data in JSON format as a result of above url with 266 number on the end of url:
 <br>
 <pre>
 {
