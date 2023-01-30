@@ -47,7 +47,9 @@ Examples data in JSON format as a result of above url with 266 number on the end
     },
 </pre>
 <br>
+
 ## REST API Function
+
 To run Your own WEB API copy file rest.php and copy it to “Class” folder on your Apache Serwer. This file have a function getPollution which let you get a pollution norm which is collect in mySQL database and encode it to JSON formatted data like data in above GIOS API.
 <br>
 <pre>
@@ -67,8 +69,11 @@ public function getPollution($pollId) {
 		echo json_encode($empData);	
 	}
   </pre>
+  
 <br>
+
 ## Initialize
+
 Before running WEB API you must:
 1.	Make test_api database on Apache localhost.
 2.	Run test_api.sql file on this database to make tables with data
