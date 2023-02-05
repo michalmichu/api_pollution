@@ -1,7 +1,7 @@
 # api_pollution
 ## API Pollution REST API
 <br>
-Get started with the simple responsive menu with the "API Pollution REST API" Rest Api plugin. This is very easy to use and easily customizable code base. You have to maintain the very easy HTML structure for this plugin.
+Get started with the simple Web Page with the "API Pollution REST API" Rest Api plugin. This is very easy to use and easily customizable code base. You have to maintain the very easy HTML/php structure for this plugin.
 <br>
 https://tripplant.pl/api/api_get_data.php
 
